@@ -1,0 +1,3 @@
+﻿  ImageLikenessHist.cpp
+D:\CODE\C++ Projects\ImageLikenessHist\ImageLikenessHist.cpp(65,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ImageLikenessHist.vcxproj -> D:\CODE\C++ Projects\ImageLikenessHist\x64\Debug\ImageLikenessHist.exe
